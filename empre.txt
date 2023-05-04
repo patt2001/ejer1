@@ -1,0 +1,8 @@
+rana
+
+informe
+1 conversion del pdf a csv/excel
+2 diagrma er
+3 query de insercion
+4 bd con los datos cargados en sus respectivastablas
+5
